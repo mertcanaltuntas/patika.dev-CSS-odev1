@@ -1,0 +1,36 @@
+
+
+h1 {
+    text-align: center;
+    color: #400E32;
+    font-size: 40px;
+    font-style: italic;
+}
+
+nav {
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    display: flex ;
+    justify-content: space-evenly;
+
+}
+
+li {
+    list-style-position: inside;
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+
+h4 {
+    text-align: center;
+    color: #400E32;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+
